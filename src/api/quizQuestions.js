@@ -1,6 +1,6 @@
 var quizQuestions = [
   {
-      question: "What franchise would you rather play a game from?",
+      question: "What company makes your favorite video game console?",
       answers: [
           {
               type: "Microsoft",
@@ -17,7 +17,7 @@ var quizQuestions = [
       ]
   },
   {
-      question: "Which console would you prefer to play with friends?",
+      question: "Of the below 3 which is your favorite?",
       answers: [
           {
               type: "Microsoft",
@@ -34,7 +34,7 @@ var quizQuestions = [
       ]
   },
   {
-      question: "Which of these racing franchises would you prefer to play a game from?",
+      question: "Which of these gives you the best racing experience?",
       answers: [
           {
               type: "Microsoft",
@@ -51,7 +51,7 @@ var quizQuestions = [
       ]
   },
   {
-      question: "Which of these games do you think is best?",
+      question: "Of the below 3 which do you think is the best?",
       answers: [
           {
               type: "Microsoft",
